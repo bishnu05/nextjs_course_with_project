@@ -1,3 +1,8 @@
+export const metadata = {
+  title:"Blogs",
+  description: "Technical Agency Details",
+};
+
 export default async function Blogs() {
   return (
     <>
