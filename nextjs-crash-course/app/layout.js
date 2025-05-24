@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata = {
   title: {
     template: "%s | Technical Agency",
-    default:"Technical Agency"
+    default: "Technical Agency",
   },
   description: "Technical Agency Details",
 };
